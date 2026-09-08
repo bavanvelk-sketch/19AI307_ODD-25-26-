@@ -30,8 +30,8 @@ To define a class Car with attributes brand, color, and year; create two objects
  ```
 /*
 Program to implement a Class and Objects using Java
-Developed by:  LUKESH M
-RegisterNumber: 212224230144
+Developed by:  Bavan Vel K
+RegisterNumber: 212224020006
 */
 ```
 
